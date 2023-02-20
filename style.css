@@ -15,7 +15,7 @@ a {
   background: url(img/bg.png);
   background-size: cover;
   margin-top: 0px;
-  background-color: yellow;
+  background-color: white;
 }
 nav {
   display: flex;
